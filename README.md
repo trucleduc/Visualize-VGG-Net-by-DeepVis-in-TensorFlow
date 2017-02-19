@@ -11,6 +11,8 @@ I write this visualization of VGG-Net (http://www.robots.ox.ac.uk/~vgg/research/
 
 ## Examples of a few per-class images
 <figure>
-  <img src="/per-class-images/prob-000.png" alt="tench" title="tench" />
+  <img src="/per-class-images/prob-000.png" alt="..." title="..." />
   <figcaption>tench</figcaption>
+  <img src="/per-class-images/prob-001.png" alt="..." title="..." />
+  <figcaption>goldfish</figcaption>
 </figure>
