@@ -16,3 +16,5 @@ I write this visualization of VGG-Net (http://www.robots.ox.ac.uk/~vgg/research/
   <img src="/per-class-images/prob-001.png" alt="..." title="..." />
   <figcaption>goldfish</figcaption>
 </figure>
+
+![...](/per-class-images/prob-000.png?raw=true "tench")
