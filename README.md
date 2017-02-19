@@ -10,11 +10,4 @@ I write this visualization of VGG-Net (http://www.robots.ox.ac.uk/~vgg/research/
 4. Run "python visualize_VGG.py" to produce per-class images (total 1000 images for 1000 ImageNet categories) that the network wants to see.
 
 ## Examples of a few per-class images
-<figure>
-  <img src="/per-class-images/prob-000.png" alt="..." title="..." />
-  <figcaption>tench</figcaption>
-  <img src="/per-class-images/prob-001.png" alt="..." title="..." />
-  <figcaption>goldfish</figcaption>
-</figure>
-
-![...](/per-class-images/prob-000.png?raw=true "tench")
+![tench](/per-class-images/prob-000.png?raw=true "tench")
