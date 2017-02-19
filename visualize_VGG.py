@@ -88,7 +88,7 @@ saver.restore(sess, pretrained_model)
 
 
 
-fo = open("vgg-caffe/log.txt", "w")
+fo = open("log.txt", "w")
 fo.truncate()
 for neuron_idx in range(1000):
     activation = h_prob[0, neuron_idx]
