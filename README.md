@@ -69,3 +69,4 @@ I write this visualization of VGG-Net (http://www.robots.ox.ac.uk/~vgg/research/
 ![.](/per-class-images/prob-056.png)
 ![.](/per-class-images/prob-057.png)
 ![.](/per-class-images/prob-058.png)
+![.](/per-class-images/prob-059.png)
