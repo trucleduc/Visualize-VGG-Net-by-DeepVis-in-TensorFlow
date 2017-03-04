@@ -6,7 +6,7 @@ import tensorflow as tf
 
 
 pretrained_model = "vgg-tensorflow/VGG_ILSVRC_16_layers.ckpt"
-base_lr = 5000.0
+base_lr = 3000.0
 lr_step = 1000
 gamma = 0.5
 decay = 1e-4
@@ -107,7 +107,7 @@ for neuron_idx in range(1000):
         if (max_activation_val > 0.99):
             break
         if (activation_val > 0.9):
-            lr_val = base_lr / 50.0
+            lr_val = base_lr / 30.0
 
         print("Class %d, iters %d, learning rate = %f" % (neuron_idx, iters, lr_val))
         print("Activation: ", activation_val)
